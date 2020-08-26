@@ -1,5 +1,5 @@
-# SAFE Network Signature Aggregator
-A Generic BLS Signature Aggregator for the SAFE Network
+# BLS Signature Aggregator
+A Generic BLS Signature Aggregator.
 
 ## License
 
