@@ -1,10 +1,10 @@
 [package]
-name = "safe-network-signature-aggregator"
+name = "bls-signature-aggregator"
 description = "A generic BLS Signature Aggregator"
 homepage = "https://maidsafe.net"
 license = "MIT OR BSD-3-Clause"
 readme = "README.md"
-repository = "https://github.com/maidsafe/safe-network-signature-aggregator"
+repository = "https://github.com/maidsafe/bls-signature-aggregator"
 authors = ["MaidSafe Developers <dev@maidsafe.net>"]
 version = "0.1.0"
 edition = "2018"
