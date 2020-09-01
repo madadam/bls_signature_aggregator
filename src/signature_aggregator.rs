@@ -16,7 +16,7 @@ use std::{collections::HashMap, fmt::Debug, mem};
 use threshold_crypto as bls;
 
 #[cfg(feature = "mock_timer")]
-use fake_clock::FakeClock as Instant;
+use sn_fake_clock::FakeClock as Instant;
 #[cfg(not(feature = "mock_timer"))]
 use std::time::Instant;
 
